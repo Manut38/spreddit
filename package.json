@@ -27,10 +27,10 @@
     "vue-check-view": "^0.3.0"
   },
   "devDependencies": {
-    "@quasar/app": "^2.1.11",
+    "@quasar/app": "^2.4.4",
     "@quasar/quasar-app-extension-qenv": "^1.0.3",
     "cross-env": "^7.0.3",
-    "firebase-tools": "^8.19.0"
+    "firebase-tools": "^13.6.0"
   },
   "engines": {
     "node": ">= 10.18.1",
